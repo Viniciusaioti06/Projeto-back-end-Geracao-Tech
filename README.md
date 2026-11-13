@@ -1,1 +1,0 @@
-# Projeto-back-end-Geracao-Tech
